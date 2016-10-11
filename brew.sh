@@ -50,7 +50,7 @@ brew install homebrew/php/php56 --with-gmp
 
 # Install other useful binaries.
 brew install ack
-brew install dark-mode
+#brew install dark-mode
 #brew install exiv2
 brew install git
 brew install git-lfs
