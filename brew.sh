@@ -22,6 +22,7 @@ brew install gnu-sed --with-default-names
 # Note: don’t forget to add `/usr/local/bin/bash` to `/etc/shells` before
 # running `chsh`.
 brew install bash
+# bash-completion2 is for bash 4, where as 1 is for bash 3
 brew tap homebrew/versions
 brew install bash-completion2
 
