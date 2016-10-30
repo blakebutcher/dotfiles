@@ -70,5 +70,11 @@ brew install vbindiff
 brew install webkit2png
 brew install zopfli
 
+# Web development
+brew install bash-git-prompt
+brew install node
+brew install libsass
+brew install phantomjs
+
 # Remove outdated versions from the cellar.
 brew cleanup
